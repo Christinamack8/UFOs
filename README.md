@@ -4,7 +4,7 @@ To provide more in-depth analysis oof UFO sightings by allowing the user to filt
 
 ## Summary
 
-When we enter the website we see our full image and a table that allows us to filter through a table with:
+When we enter the website we see our full image with the addition of a table and on the left side filters that allow us to view:
 
 * Date
 * City/State/Country
