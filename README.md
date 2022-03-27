@@ -4,12 +4,12 @@ To provide more in-depth analysis oof UFO sightings by allowing the user to filt
 
 ## Summary
 
-When we enter the website we see our full image and a table that allows us to filter through:
+When we enter the website we see our full image and a table that allows us to filter through a table with:
 
-* date
-* location
-* UFO descriptive data
-* witness comments
+* Date
+* City/State/Country
+* Shape/Duration of sighting
+* Witness comments
 
 
 <img width="1430" alt="Screen Shot 2022-03-27 at 11 59 07 AM" src="https://user-images.githubusercontent.com/95730183/160294362-1d81a1ec-b397-4bcf-a038-3f10e80d99c7.png">
