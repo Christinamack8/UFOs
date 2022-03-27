@@ -4,4 +4,8 @@ To provide more in-depth analysis oof UFO sightings by allowing the user to filt
 
 ## Summary
 
-<img width="1440" alt="Screen Shot 2022-03-22 at 12 44 31 PM" src="https://user-images.githubusercontent.com/95730183/160258358-eaa8945b-dccb-4a56-bc3a-40bfecba11f6.png">
+<img width="1430" alt="Screen Shot 2022-03-27 at 11 59 07 AM" src="https://user-images.githubusercontent.com/95730183/160294362-1d81a1ec-b397-4bcf-a038-3f10e80d99c7.png">
+
+<img width="1438" alt="Screen Shot 2022-03-27 at 11 59 19 AM" src="https://user-images.githubusercontent.com/95730183/160294375-daaff6eb-1610-4d14-af7e-bf4dc4d8e28c.png">
+
+
